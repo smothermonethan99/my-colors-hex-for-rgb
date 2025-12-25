@@ -1,4 +1,12 @@
-#5AC8FF
-#5C78FF
-#905AFF
-#BA5AFF
+Core Theme Colors (xcad Palette)
+These hex codes are defined in his terminal and editor settings:
+Background: #1A1A1A
+Foreground (Text): #F1F1F1
+Black: #121212
+Blue: #2B4FFF (Bright Blue: #5C78FF)
+Cyan: #28B9FF (Bright Cyan: #5AC8FF)
+Green: #7129FF (Bright Green: #905AFF)
+Purple: #2883FF (Bright Purple: #5EA2FF)
+Red: #A52AFF (Bright Red: #BA5AFF)
+Yellow: #3D2AFF (Bright Yellow: #685AFF)
+Cursor/Selection: #FFFFFF
