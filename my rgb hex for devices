@@ -1,12 +1,24 @@
-Core Theme Colors (xcad Palette)
-These hex codes are defined in his terminal and editor settings:
-Background: #1A1A1A
-Foreground (Text): #F1F1F1
-Black: #121212
-Blue: #2B4FFF (Bright Blue: #5C78FF)
-Cyan: #28B9FF (Bright Cyan: #5AC8FF)
-Green: #7129FF (Bright Green: #905AFF)
-Purple: #2883FF (Bright Purple: #5EA2FF)
-Red: #A52AFF (Bright Red: #BA5AFF)
-Yellow: #3D2AFF (Bright Yellow: #685AFF)
-Cursor/Selection: #FFFFFF
+I'll extract the blue, purple, magenta, and cyan colors from your theme file and provide them as hex codes:
+Blue Colors
+
+#5c78ff - Primary blue (used for punctuation, variables, tags, headings)
+#2b4fff - Dark blue (terminal ANSI blue)
+#5ea2ff - Bright blue variant (terminal bright magenta)
+
+Purple Colors
+
+#ba5aff - Purple/Magenta (used for strings, inserted diff)
+#ff5eed - Pink/Magenta (used for keywords, operators)
+#905aff - Purple variant (terminal bright green)
+#7129ff - Deep purple (terminal ANSI green)
+#685aff - Purple-blue (terminal bright yellow)
+#3d2aff - Purple-blue variant (terminal ANSI yellow)
+#8854d3 - Purple for debugging status bar
+
+Cyan/Aqua Colors
+
+#5ac8ff - Cyan blue (used for functions, links, attributes)
+#28b9ff - Bright cyan (terminal ANSI cyan)
+#5effc3 - Cyan-green (used for constants, parameters)
+
+These colors are used throughout the theme for syntax highlighting, with blues primarily for variables and structure, purples/magentas for keywords and strings, and cyans for functions and special elements.
